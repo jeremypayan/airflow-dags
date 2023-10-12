@@ -69,8 +69,8 @@ The Continuous Deployment is under *sync_dag_bucket.yml* file.
 # To get started 
 
 1. Clone the repository:
-    - HTTPS: `git clone https://github.com/cityscoot/airflow.git`
-    - SSH: `git clone git@github.com:cityscoot/airflow.git`
+    - HTTPS: `git clone https://github.com/jeremypayan/airflow-dags.git`
+    - SSH: `git clone git@github.com:jeremypayan/airflow-dags.git`
 
 
 2. Create a conda environment : `$> conda create -y airflow`.
